@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
-<h3 align="center">I am Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
